@@ -10,3 +10,10 @@ Kỹ năng:
 - Kỹ năng giao tiếp và làm việc nhóm.
 - Kỹ năng sử dụng tin học văn phòng (Word, Excel, PowerPoint).
 - Kỹ năng quản lý thời gian hiệu quả.
+
+Kế hoạch học tập:
+- Dành ít nhất 2 giờ mỗi ngày để ôn tập và thực hành Git.
+- Tham gia các khóa học trực tuyến để nâng cao kỹ năng lập trình.
+- Tìm hiểu thêm về Git branching, merging và resolving conflict.
+- Làm việc nhóm trên GitHub để rèn luyện kỹ năng phối hợp.
+- Viết nhật ký học tập hằng tuần để đánh giá tiến độ.
