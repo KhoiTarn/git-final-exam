@@ -1,3 +1,5 @@
 Đây là file được tạo trực tiếp trên GitHub.
 File này minh họa thao tác online.
 Commit này được tạo bằng web editor.
+Dòng này được thêm từ local.
+Git push sẽ đồng bộ thay đổi này lên GitHub.
