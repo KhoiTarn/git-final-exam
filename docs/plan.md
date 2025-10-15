@@ -12,4 +12,9 @@ Cuối tuần, tôi sẽ tổng hợp lại toàn bộ nội dung đã học tro
 - Tham gia nhóm học tập để chia sẻ kinh nghiệm.
 - Ghi chú lại các lệnh Git quan trọng sau mỗi buổi học.
 - Dành thời gian ôn tập lại trước kỳ thi.
+<<<<<<< Updated upstream
+=======
+- Học thêm về GitHub Actions và CI/CD.
+- Thực hành viết README.md chuyên nghiệp.
+>>>>>>> Stashed changes
 
