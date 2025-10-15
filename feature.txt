@@ -1,0 +1,5 @@
+Tính năng mới: Ứng dụng quản lý thời gian học tập cá nhân.
+Ứng dụng cho phép người dùng tạo kế hoạch học tập chi tiết theo ngày, tuần và tháng.
+Có chức năng nhắc nhở, thống kê thời gian và lưu trữ tiến độ học tập.
+Hỗ trợ giao diện đơn giản, dễ sử dụng và có thể đồng bộ với Google Calendar.
+Tính năng này giúp người học theo dõi và cải thiện hiệu quả học tập hằng ngày.
